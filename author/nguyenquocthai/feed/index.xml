@@ -1,3 +1,5 @@
+<br />
+<b>Warning</b>:  mysqli_query(): (HY000/6): Error on delete of 'D:\xampp\tmp\#sql13b8_28c_0.MAI' (Errcode: 13 &quot;Permission denied&quot;) in <b>D:\xampp\htdocs\myproject\wordpress\wp-includes\wp-db.php</b> on line <b>2056</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -26,8 +28,7 @@
 		
 		<dc:creator><![CDATA[NguyenQuocThai]]></dc:creator>
 		<pubDate>Sun, 26 Sep 2021 05:16:00 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://https://thaitt18.github.io/mywordpress/?p=1</guid>
+				<guid isPermaLink="false">http://https://thaitt18.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
